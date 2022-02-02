@@ -1,0 +1,17 @@
+.p {
+    color: #000000;
+    background-color: #fa7f7f;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.pplus {
+    font-size: 24px;
+}
+#second {
+    color: #0000ff; 
+    font-size: 36px;
+}
+#fourth {
+background-color: rgb(135, 252, 135);
+font-size: 24px;
+font-weight: 700;
+}
